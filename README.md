@@ -20,9 +20,11 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 
   CSS, J.S 파일은 브라우저에서 여는 것이 아니라 HTML이 CSS와 J.S 파일을 가져오면서, HTML 파일을 브라우저에서 여는 것이다.
   
+  
 - #2.1
 
   J.S는 숫자와 문자라는 두가지 데이터 타입이 있으며 각각에 대해 뭘 해야 하는지 알고 있다.
+  
   
 - #2.2
 
@@ -30,11 +32,13 @@ https://nomadcoders.co/javascript-for-beginners/lobby
   
   변수 이름에는 공백이 들어갈 수 없으며 만약 공백이 필요하다면 다음 단어의 첫 문자를 대문자로 작성 (camelCase)
   
+  
 - #2.3
 
   변수 생성 위해 'let'사용 (let '변수이름' = 'VALUE';)
   
   let 과 const의 차이는 const는 값이 바뀔 수 없다는 것이다.
+  
   
 - #2.4
 
@@ -44,6 +48,7 @@ https://nomadcoders.co/javascript-for-beginners/lobby
   
   undefined : 값이 없음, 정의되지 않음을 의미
   
+  
 - #2.5
 
   array를 만들기 위해 [] 로 묶으며 각 항목들을 , 로 나열
@@ -52,15 +57,18 @@ https://nomadcoders.co/javascript-for-beginners/lobby
   
   array에 항목을 추가하려면 '변수이름'.push('VALUE')
   
+  
 - #2.6
 
   CONST '변수이름' = { } 를 사용해 개체의 속성 정의 / { } 밖에서 속성을 추가하거나 수정할 수 있음 ('변수이름'.속성 = 속성값)
+  
   
 - #2.7
 
   function은 어떤 코드를 캡슐화해서 실행을 여러번 할 수 있게 함 / function '함수이름' () {}
   
   { } 안에 있는 것이 함수를 실행시킬 때마다 반복됨 / '함수이름'() 로 실행
+  
   
 - #2.8
 
