@@ -17,5 +17,5 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 
 # 강의 내용 정리
 
-9/19(월) ~ 9/25(일) 
-- #1.0
+9/26(월) ~ 10/2(일) 
+- #2.0
