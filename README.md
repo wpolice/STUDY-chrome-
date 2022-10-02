@@ -19,3 +19,5 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 
 9/26(월) ~ 10/2(일) 
 - #2.0
+
+CSS, J.S 파일은 브라우저에서 여는 것이 아니라 HTML이 CSS와 J.S 파일을 가져오면서, HTML 파일을 브라우저에서 여는 것이다.
