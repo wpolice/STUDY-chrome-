@@ -64,4 +64,4 @@ https://nomadcoders.co/javascript-for-beginners/lobby
   
 - #2.8
 
-  function 에서 데이터를 받기 위해서는 function 에 있는 ()에 변수를 넣음 / 해당 변수를 {} 속에도 포함시키면 함수 밖의 데이터를 값을 실행
+  function 에서 데이터를 받기 위해서는 function 에 있는 ()에 변수를 넣음 / 해당 변수를 {} 속에도 포함시키면 함수 밖 데이터 값을 실행
