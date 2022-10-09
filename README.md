@@ -73,3 +73,44 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 - #2.8
 
   function 에서 데이터를 받기 위해서는 function 에 있는 ()에 변수를 넣음 / 해당 변수를 {} 속에도 포함시키면 함수 밖 데이터 값을 실행
+  
+# 9/26(월) ~ 10/2(일) 
+- #2.9
+  
+  let은 업데이트 가능, const는 불가능 / 변수에 숫자 문자 boolean null undefined 가능 / 많은 수의 데이터를 가지게 할 때 list사용. list는 업데이트 가능
+  
+  
+- #2.10
+
+ 객체 {속성:속성값} / function 함수이름() {반복할 코드}
+ 
+ 
+- #2.11
+ 
+ console.log 사용없이 function을 통해 결과값 얻기
+ 
+ 
+- #2.12
+
+ function 밑에 return 넣기. 해당 함수는 return의 value를 넘겨줌
+ 
+ 
+- #2.13
+
+ prompt를 통한 입력창으로 사용자에게 값을 받음(옛날 방식) / string을 number로 바꾸기 위해 parseInt() 사용
+ 
+ 
+- #2.14
+
+ isNaN()으로 숫자인지 아닌지 판단 가능 / if(조건) {조건이 참일 때 실행할 코드} else {조건이 거짓일 때 실행할 코드}
+ 
+ 
+- #2.15
+
+ else 대신 else if 로 조건 추가 / &&로 조건 두가지를 충족시켜야 함을 명시 / ||로 하나만 충족시켜도 됨을 명시 / else는 선택사항
+ 
+ 
+- #2.16
+
+ else if를 사용할 때 조건이 중첩되지 않는지 확인할 것 / === : 같은가 / !== : 
+  
