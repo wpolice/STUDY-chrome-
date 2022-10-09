@@ -74,7 +74,7 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 
   function 에서 데이터를 받기 위해서는 function 에 있는 ()에 변수를 넣음 / 해당 변수를 {} 속에도 포함시키면 함수 밖 데이터 값을 실행
   
-#10/3(월) ~ 10/9(일) 
+# 10/3(월) ~ 10/9(일) 
 - #2.9
   
   let은 업데이트 가능, const는 불가능 / 변수에 숫자 문자 boolean null undefined 가능 / 많은 수의 데이터를 가지게 할 때 list사용. list는 업데이트 가능
