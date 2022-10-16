@@ -114,3 +114,49 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 
   else if를 사용할 때 조건이 중첩되지 않는지 확인할 것 / === : 같은가 / !== : 
   
+# 10/10(월) ~ 10/16(일) 
+- #3.0
+  
+  HTML과 상호작용 하기 위해 JS 사용 / HTML에서 정보를 가져올 수 도 있고 JS코드에서 해당 항목을 볼 수 있음
+  
+  
+- #3.1
+  document로 JS에서 HTML에 접근할 수 있음 / JS는 HTML 요소를 가지고 오지만 HTML 자체를 보여주지 않음 / getElementsByID로 해당 ID 이름을 가진 요소를 보여줌
+ 
+ 
+- #3.2
+ 
+  getElementsByClassName으로 해당 class 이름을 가진 요소를 보여줌 / queryselector는 요소를 css 방식으로 검색할 수 있지만 하나의 요소만을 반환
+  queryselectorAll은 여러개가 있다면 전부다 
+ 
+ 
+- #3.3
+
+  모든 event를 JS는 listen 할 수 있음 / event를 listen 하기 위해 eventListener 추가 / ex)title.addEventListener("click", 함수) - 클릭했을 때 일어날 일을 위해 함수 정의
+ 
+ 
+- #3.4
+
+  console.dir을 통해 사용가능한 event를 찾을 수 있음 / mouseenter: 마우스를 올릴 때마다 반응 / mouseleave: 마우스를 뗄 때마다 반응
+ 
+ 
+- #3.5
+
+  addEventListener(event이름, 함수)를 on event이름 = 함수 로 바꿀 수 있음 / window에서는 resize, copy, offline, online 등의 이벤트가 가능
+ 
+ 
+- #3.6
+
+  event를 실행하면 실행될 함수에 if-else를 넣어 경우의 수를 만들 수 있음
+ 
+ 
+- #3.7
+
+  스타일변형은 JS에서 함께하는 것이 아니라 css 파일을 통해 정의 함으로써 코드를 깔끔하게 할 수 있음
+  string을 변수에 넣어 코드에 활용하면 이유를 알기 어려운 오류를 줄일 수 있음
+  
+  
+- #3.8
+
+  JS에서 class를 변경하고 싶을 때 classList를 사용하면 class 들의 목록으로 작업할 수 있음, className은 이전에 class를 상관하지 않고 교체함
+  toggle은 사용하면 해당 classList에 class가 있는지 확인해서 만약 있다면 제거하고 없다면 
