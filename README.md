@@ -121,6 +121,7 @@ https://nomadcoders.co/javascript-for-beginners/lobby
   
   
 - #3.1
+- 
   document로 JS에서 HTML에 접근할 수 있음 / JS는 HTML 요소를 가지고 오지만 HTML 자체를 보여주지 않음 / getElementsByID로 해당 ID 이름을 가진 요소를 보여줌
  
  
