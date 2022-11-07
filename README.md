@@ -189,7 +189,7 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 - #4.4
 
   classList.add(), classList.remove()를 이용해 class 이름을 추가, 삭제 할 수 있음 / string + 변수 를 이용해 문자열을 나타낼 수 있지만
-  ``를 이용해 `string ${변수}`로 대체할 수 있음.
+  ``를 이용해 ``string ${변수}``로 대체할 수 있음.
   
  
 - #4.5
@@ -204,4 +204,4 @@ https://nomadcoders.co/javascript-for-beginners/lobby
  
 - #4.7
 
-  4 전체 
+  4 전체 복습.
