@@ -160,4 +160,48 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 - #3.8
 
   JS에서 class를 변경하고 싶을 때 classList를 사용하면 class 들의 목록으로 작업할 수 있음, className은 이전에 class를 상관하지 않고 교체함
-  toggle은 사용하면 해당 classList에 class가 있는지 확인해서 만약 있다면 제거하고 없다면 
+  toggle은 사용하면 해당 classList에 class가 있는지 확인해서 만약 있다면 제거하고 없다면 추가함
+
+# 10/31(월) ~ 11/06(일) 
+- #4.0
+  
+  적절한 input, button을 적절한 아이디를 가진 div로 묶은 뒤 js 붙이기 / js 붙일 때 document.~ 아니라 div의 id. ~ 로 해서 바로 찾을 수 있음
+  input 내용을 가져오려면 value property를 봐야함
+  
+  
+- #4.1
+ 
+  function에 조건문을 사용해 해당 값이 조건에 만족할 때 다른 문구가 뜨도록 할 수 있음 / 항상 user가 입력하는 값의 유효성을 확인해야 함
+  input의 유효성 검사를 위해서는 form 안에 input이 있어야 함
+ 
+ 
+- #4.2
+ 
+  함수이름 뒤에 ()를 붙이면 브라우저가 자동을 해당 함수를 실행시킴 / preventDefault()를 사용해 어떤 event의 기본 행동이 발생되지 않도록 함
+  form의 기본 동작은 submit
+ 
+ 
+- #4.3
+
+  링크의 기본 동작은 클릭시 다른 페이지로 이동 / preventDefault로 링크의 이동을 막을 수 있음
+ 
+ 
+- #4.4
+
+  classList.add(), classList.remove()를 이용해 class 이름을 추가, 삭제 할 수 있음 / string + 변수 를 이용해 문자열을 나타낼 수 있지만
+  ``를 이용해 `string ${변수}`로 대체할 수 있음.
+  
+ 
+- #4.5
+
+  local Storage를 이용해 원하는 값을 저장할 수 있음 [key, value] / 저장된 값을 불러오거나 삭제도 가능(reoveItem, getItem, setItem)
+ 
+ 
+- #4.6
+
+  조건문, local Storage를 사용해 조건에 만족할 때만 어떤 것이 보이게 하면서, 새로고침을 했을시도 그것이 유지될 수 있도록 할 수 있음
+ 
+ 
+- #4.7
+
+  4 전체 
